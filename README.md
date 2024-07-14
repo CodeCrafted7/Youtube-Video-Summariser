@@ -1,4 +1,4 @@
-# Youtube-Video-Summarises
+# Youtube-Video-Summariser
 
 ### 1. Create a virtual environment
 
